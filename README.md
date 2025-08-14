@@ -1,12 +1,9 @@
-👀 Interests: I’m deeply invested in Web Development, especially in crafting responsive, user-friendly, and visually appealing websites. I enjoy bringing ideas to life using modern frontend and backend technologies.
+👀 Interests: I’m passionate about Artificial Intelligence and Data Science, with a keen interest in building intelligent systems that solve real-world problems. I enjoy working on machine learning models, data analysis pipelines, and AI-powered applications that make data-driven decisions.
 
-🌱 Currently Learning: I'm currently exploring the MERN stack with Next.js (MongoDB, Next.js, React, Node.js) to build full-stack web applications with powerful user experiences and robust backend support.
+🌱 Currently Learning: I’m currently exploring Machine Learning, Deep Learning, and Data Engineering concepts, focusing on Python, scikit-learn, TensorFlow, PyTorch, SQL, and cloud-based AI workflows. My goal is to master the end-to-end AI project lifecycle — from data collection to deployment.
 
-💞️ Looking to Collaborate On: I’m excited to team up on website projects, portfolio designs, startup MVPs, or any full-stack applications. Let’s create something impactful and beautiful on the web!
+💞️ Looking to Collaborate On: I’m eager to work on AI/ML projects, predictive analytics tools, NLP-based solutions, data visualization dashboards, or any innovative data-driven application that creates impact.
 
-📫 How to Reach Me: Feel free to contact me at 8824072420 or drop me an email at av7730748@gmail.com. I’m always open to learning, collaborating, and new opportunities.
+📫 How to Reach Me: Feel free to reach out at 8824072420 or av7730748@gmail.com. I’m always open to collaborations, research opportunities, and challenging AI/ML projects.
 
 😄 Pronouns: He/Him
-
-
-
